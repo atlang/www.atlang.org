@@ -1,4 +1,4 @@
-## atlang homepage
+## www.atlang.org
 
 This repository contains the _static_ source of the atlang website.
 
