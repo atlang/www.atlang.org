@@ -22,6 +22,6 @@ After cloning, cd into the `atlang/www.atlang.org` directory and run:
 
 To see the generated site, just visit `http://localhost:4000`.
 
-To have the site regenerated as you make changes, add use the `--watch` flag:
+To have the site regenerated as you make changes, use the `--watch` flag:
 
     jekyll serve --watch
