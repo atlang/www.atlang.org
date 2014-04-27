@@ -16,7 +16,7 @@ If in doubt, head over to the [Jekyll wiki](https://github.com/mojombo/jekyll/wi
 
 ## Building
 
-After cloning, cd into the `scala/scala-lang` directory and run:
+After cloning, cd into the `atlang/www.atlang.org` directory and run:
 
     jekyll serve
 
