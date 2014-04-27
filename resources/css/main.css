@@ -116,6 +116,8 @@ p {
   font-family: 'Kefa';
   color: #565656;
   margin-left: -10px;
+  letter-spacing: -2px;
+  font-weight: bold;
 }
 
 .tagline {
