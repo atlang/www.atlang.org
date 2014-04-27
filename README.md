@@ -21,3 +21,7 @@ After cloning, cd into the `scala/scala-lang` directory and run:
     jekyll serve
 
 To see the generated site, just visit `http://localhost:4000`.
+
+To have the site regenerated as you make changes, add use the `--watch` flag:
+
+    jekyll serve --watch
